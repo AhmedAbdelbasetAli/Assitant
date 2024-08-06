@@ -1,0 +1,49 @@
+/* src/Components/Services/Services.css */
+
+.serviceContainer {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.8); /* Add a slight background color to make text readable */
+  }
+  
+  .serviceTitle {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .serviceDescription {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  @media (max-width: 768px) {
+    .serviceContainer {
+      padding: 10px;
+      margin: 5px;
+    }
+  
+    .serviceTitle {
+      font-size: 20px;
+    }
+  
+    .serviceDescription {
+      font-size: 14px;
+    }
+  }
+  .serviceSubTitle {
+    font-size: 20px;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .serviceDescription a {
+    color: #1a73e8;
+    text-decoration: none;
+  }
+  
+  .serviceDescription a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,39 @@
+.footer {
+    background-color: #021f23;
+    color: #00c8d8;
+  }
+  
+  .footer h3 {
+    color: #00c8d8;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .footer p {
+    color: #00c8d8;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  .footer-link {
+    color: #00c8d8;
+    text-decoration: none;
+  }
+  
+  .footer-link:hover {
+    color: #00c8d8;
+    text-decoration: underline;
+  }
+  
+  .container-fluid {
+    padding: 20px 40px;
+  }
+  
+  ul {
+    padding-left: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  

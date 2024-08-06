@@ -1,0 +1,18 @@
+/* src/components/ContactInfo/ContactInfo.css */
+.contact-info {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-info h3 {
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .contact-info p {
+    color: #666;
+    line-height: 1.7;
+  }
+  
